@@ -1,3 +1,0 @@
-# Capas
-
-Capas dos produtos.
