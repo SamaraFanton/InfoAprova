@@ -12,13 +12,7 @@ Este repositório reúne os materiais gráficos utilizados na divulgação da pl
 
 📁 logos
 
-📁 mockups
-
 📁 capas
-
-📁 redes_sociais
-
-📁 afiliados
 
 ## Sobre o InfoAprova
 
